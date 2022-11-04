@@ -20,7 +20,7 @@ A backend developer with experience in software design, teaching, and consulting
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 🔭 I’m currently working on [FlickID](flickid.dataxis.ng)
 A webapp that uses AI to for monkeypox risk assessment.  
@@ -33,10 +33,6 @@ A webapp that uses AI to for monkeypox risk assessment.
   
 
 - ⚡ Fun fact: I prefer spaces to tabs  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
