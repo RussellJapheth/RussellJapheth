@@ -94,22 +94,3 @@
 
 <figure><embed src="https://wakatime.com/share/@9f902c29-a83c-454a-a722-aaa5c789b828/429ccb38-ada2-444f-b89b-db1ba2edb502.svg"></embed></figure>  
   
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
