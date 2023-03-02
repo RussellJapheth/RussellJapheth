@@ -14,8 +14,8 @@ A backend developer with experience in software design, teaching, and consulting
 <a href="https://medium.com/russell_japheth" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
- <a href="https://img.shields.io/badge/linktree-%2343a047.svg?&style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+ <a href="https://linktr.ee/russelljapheth" target="_blank">
+<img src=https://img.shields.io/badge/linktree-%2343a047.svg?&style=for-the-badge&logo=linktree&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
    
 
