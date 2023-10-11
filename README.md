@@ -25,7 +25,7 @@ A backend developer with experience in software design, teaching, and consulting
 ## Rapidfire  
 <table><tr><td valign="top">
 
-🔭 I’m currently working on [FlickID](https://flickid.dataxis.ng)
+🔭 I’m currently working on <a href="https://flickid.dataxis.ng" target="_blank">FlickID</a>
 A webapp that uses AI to for monkeypox risk assessment.  
   
 
