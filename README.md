@@ -32,10 +32,10 @@ A webapp that uses AI to for monkeypox risk assessment.
 - 🌱 I’m currently exploring Machine Learning and its applications  in risk assessment and disease diagnosis  
   
 
-- ❓ Ask me about anything related to backend development (PHP, NodeJS, Python) and related technologies  
+- ❓ Ask me about anything related to software development and data science (PHP, Javascript/Typescript, Python, Go, Svelte, React, similar related technologies)
   
 
-- ⚡ Fun fact: I prefer spaces to tabs  
+- ⚡ Fun fact: I prefer spaces to tabs 😂
 
 
 </td></tr></table>  
