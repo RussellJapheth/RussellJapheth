@@ -26,13 +26,13 @@ A backend developer with experience in software design, teaching, and consulting
 <table><tr><td valign="top">
 
 🔭 I’m currently working on <a href="https://flickid.dataxis.ng" target="_blank">FlickID</a>
-A webapp that uses AI to for monkeypox risk assessment.  
+A web app that uses AI for monkeypox risk assessment by image classification.  
   
 
 - 🌱 I’m currently exploring Machine Learning and its applications  in risk assessment and disease diagnosis  
   
 
-- ❓ Ask me about anything related to software development and data science (PHP, Javascript/Typescript, Python, Go, Svelte, React, similar related technologies)
+- ❓ Ask me about anything related to software development and data science (PHP, Javascript/Typescript, Python, Go, Svelte, React, and similar related technologies)
   
 
 - ⚡ Fun fact: I prefer spaces to tabs 😂
