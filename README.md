@@ -2,7 +2,7 @@
 A backend developer with experience in software design, teaching, and consulting.  
 
 <a href="https://dev.to/_russell" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" style="margin-bottom: 5px;" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="28" alt="dev.to" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/RussellJapheth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
