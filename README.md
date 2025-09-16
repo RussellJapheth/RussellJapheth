@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Russell ,
-A backend developer with experience in software design, teaching, and consulting.  
+A Software Engineer with experience in software design, teaching, and consulting.  
 
 <a href="https://github.com/RussellJapheth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
