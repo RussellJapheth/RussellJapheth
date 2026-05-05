@@ -41,29 +41,40 @@ I design and build **production-grade software systems** across healthcare, AI, 
 * **AI Systems**: Model training, inference pipelines, and real-world deployment
 * **Performance & Scalability**: Optimised systems for high-load environments
 
+
 ## 🛠️ Tech Stack
 
-**Languages:**
-`TypeScript` `JavaScript` `Python` `Go` `PHP`
+**Languages**
+`TypeScript` `JavaScript` `Python` `Go` `PHP` `SQL` `Bash`
 
-**Frontend:**
-`React` `Svelte` `Vue` `Angular` `TailwindCSS`
+**Frontend**
+`React` `Svelte` `Vue` `Angular` `Redux`
+`TailwindCSS` `Bootstrap` `Sass` `HTML5` `CSS3`
 
-**Backend & APIs:**
-`Node.js` `Express` `NestJS` `Django` `Flask` `Laravel`
+**Backend & APIs**
+`Node.js` `Express` `NestJS`
+`Django` `Flask`
+`Laravel` `CodeIgniter`
+`REST` `GraphQL`
 
-**Databases:**
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite`
+**Databases & Caching**
+`PostgreSQL` `MySQL` `MariaDB` `MongoDB`
+`Redis` `SQLite`
 
-**DevOps & Cloud:**
+**Cloud, DevOps & Infra**
 `Docker` `AWS` `GCP` `Nginx` `Linux` `Jenkins`
 
-**Messaging & Data:**
-`Kafka` `RabbitMQ` `GraphQL`
+**Messaging & Systems**
+`Kafka` `RabbitMQ`
 
-**Other Tools:**
-`Git` `Postman` `Figma`
+**Mobile & Cross-Platform**
+`Cordova` `NativeScript` `Electron`
 
+**AI / Data**
+Machine Learning, Computer Vision, Inference Pipelines
+
+**Tools & Platforms**
+`Git` `Postman` `Figma` `Firebase` `Heroku` `Appwrite`
 
 ## 🧪 Highlight Project
 
