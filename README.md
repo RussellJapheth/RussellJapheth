@@ -50,10 +50,11 @@ I design and build **production-grade software systems** across healthcare, AI, 
 **Frontend**
 `React` `Svelte` `Vue` `Angular` `Redux`
 `TailwindCSS` `Bootstrap` `Sass` `HTML5` `CSS3`
+`HTMX` `Alpine.js`
 
 **Backend & APIs**
 `Node.js` `Express` `NestJS`
-`Django` `Flask`
+`Django` `Flask` `FastAPI`
 `Laravel` `CodeIgniter`
 `REST` `GraphQL`
 
@@ -71,12 +72,23 @@ I design and build **production-grade software systems** across healthcare, AI, 
 `Cordova` `NativeScript` `Electron`
 
 **AI / Data**
+`ONNX Runtime` `InsightFace` `OpenCV` `CLIP`
 Machine Learning, Computer Vision, Inference Pipelines
 
 **Tools & Platforms**
 `Git` `Postman` `Figma` `Firebase` `Heroku` `Appwrite`
 
-## 🧪 Highlight Project
+## 🧪 Highlight Projects
+
+### [Kimera](https://github.com/RussellJapheth/kimera)
+
+Fully **offline, self-hosted media gallery** with state-of-the-art **face recognition and clustering** — Google Photos–style people organization with no cloud, no telemetry, and no data leaving your machine.
+
+* Local inference via **ONNX Runtime**: InsightFace `buffalo_l` (SCRFD detector + ArcFace ResNet-50, 512-d embeddings) with CPU/GPU auto-selection
+* **Multi-algorithm face clustering** — agglomerative, DBSCAN, Chinese Whispers, HDBSCAN — plus multi-exemplar identity matching and intra-video face merge
+* **CLIP visual embeddings** for similarity search and automatic tag suggestions
+* **FastAPI + HTMX/Alpine.js** gallery over SQLite, with a WebP thumbnail cache and FFmpeg video keyframe sampling
+* [`github.com/RussellJapheth/kimera`](https://github.com/RussellJapheth/kimera) · AGPL-3.0 · 87 tests passing
 
 ### CheckLens
 
@@ -108,6 +120,5 @@ AI-powered web platform for **mpox risk assessment** using image classification.
 
 * 💬 Open to discussions on **software engineering, AI, and system design**
 * 🧩 Strong focus on **real-world problem solving and production systems**
+* 🛠️ Building **open-source, offline-first AI tools** (see [Kimera](https://github.com/RussellJapheth/kimera))
 * ⚙️ Preference: **spaces over tabs**
-
-If you want, I can turn this into a **portfolio-grade README with case studies** instead of just a profile.
