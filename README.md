@@ -48,7 +48,7 @@ I design and build **production-grade software systems** across healthcare, AI, 
 `TypeScript` `JavaScript` `Python` `Go` `PHP` `SQL` `Bash`
 
 **Frontend**
-`React` `Svelte` `Vue` `Angular` `Redux`
+`React` `Svelte` `SvelteKit` `Vue` `Angular` `Redux`
 `TailwindCSS` `Bootstrap` `Sass` `HTML5` `CSS3`
 `HTMX` `Alpine.js`
 
@@ -77,6 +77,7 @@ Machine Learning, Computer Vision, Inference Pipelines
 
 **Tools & Platforms**
 `Git` `Postman` `Figma` `Firebase` `Heroku` `Appwrite`
+`Bun` `PM2` `Netlify`
 
 ## 🧪 Highlight Projects
 
@@ -89,6 +90,23 @@ Fully **offline, self-hosted media gallery** with state-of-the-art **face recogn
 * **CLIP visual embeddings** for similarity search and automatic tag suggestions
 * **FastAPI + HTMX/Alpine.js** gallery over SQLite, with a WebP thumbnail cache and FFmpeg video keyframe sampling
 * [`github.com/RussellJapheth/kimera`](https://github.com/RussellJapheth/kimera) · AGPL-3.0 · 87 tests passing
+
+### [Cliff-Drop](https://github.com/RussellJapheth/cliff-drop)
+
+A **self-hosted, cross-device text and file sharing app** inspired by Microsoft Edge Drop — single-user, minimal, and secure.
+
+* **Real-time sync** over native WebSockets with a chat-style timeline, sticky day grouping, and lazy loading
+* Text/link sharing, drag-and-drop **multi-file uploads**, clipboard paste, and EXIF-aware thumbnails via `sharp`
+* Password auth with **Argon2id** + HTTP-only cookies; SQLite through **Drizzle ORM** (local or Turso) and local/S3-compatible storage
+* **SvelteKit + Tailwind CSS**, PWA-installable · MIT
+
+### [Focus Flow](https://github.com/RussellJapheth/focus-flow)
+
+A simple, elegant **Pomodoro-style work timer and todo list**.
+
+* Customizable interval timer paired with a persistent task list
+* **Fully client-side** — tasks and settings stay in `localStorage`, no account required
+* **SvelteKit + Tailwind CSS + Bun**, deployable to Netlify or any SvelteKit adapter · GLWTPL
 
 ### CheckLens
 
