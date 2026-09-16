@@ -4,27 +4,28 @@
 
 I design and build **production-grade software systems** across healthcare, AI, and enterprise platforms. My work focuses on **scalable architectures, data-intensive applications, and secure system design**, particularly in **digital health and EMR systems**.
 
-
 ### 🔗 Connect with me
 
-<a href="https://github.com/RussellJapheth" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/RussellJapheth" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://dev.to/_russell" target="_blank">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+<a href="https://dev.to/_russell" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
 </a>
-<a href="https://twitter.com/the_e_3" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/the_e_3" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://linkedin.com/in/japheth-russell" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/japheth-russell" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://medium.com/russell_japheth" target="_blank">
-<img src="https://img.shields.io/badge/Medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/russell_japheth" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Medium-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://linktr.ee/russelljapheth" target="_blank">
-<img src="https://img.shields.io/badge/Linktree-%2343a047.svg?style=for-the-badge&logo=linktree&logoColor=white" />
+<a href="https://linktr.ee/russelljapheth" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Linktree-%2343a047.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
 </a>
+
+📫 Open to **senior engineering roles, technical consulting, and collaboration** — reach me on [LinkedIn](https://linkedin.com/in/japheth-russell) or open an issue on any repo.
 
 ## 🚀 Current Focus
 
@@ -40,7 +41,6 @@ I design and build **production-grade software systems** across healthcare, AI, 
 * **Digital Health Expertise**: EMR systems, interoperability, health data pipelines
 * **AI Systems**: Model training, inference pipelines, and real-world deployment
 * **Performance & Scalability**: Optimised systems for high-load environments
-
 
 ## 🛠️ Tech Stack
 
@@ -108,7 +108,7 @@ A simple, elegant **Pomodoro-style work timer and todo list**.
 * **Fully client-side** — tasks and settings stay in `localStorage`, no account required
 * **SvelteKit + Tailwind CSS + Bun**, deployable to Netlify or any SvelteKit adapter · GLWTPL
 
-### CheckLens
+### CheckLens *(proprietary)*
 
 AI-powered web platform for **mpox risk assessment** using image classification.
 
@@ -117,7 +117,17 @@ AI-powered web platform for **mpox risk assessment** using image classification.
 * Healthcare-focused risk scoring system
 * Designed for **scalability and field usability**
 
-## 📊 Areas of Expertise (ATS Keywords)
+## 📦 More Open Source
+
+A few other public repos:
+
+* [**Rcopy**](https://github.com/RussellJapheth/Rcopy) — curl-based remote file copy with a CLI, real-time progress, and resumable downloads
+* [**chipmaker**](https://github.com/RussellJapheth/chipmaker) — CLI that generates CHIP-0007 (Chia NFT) metadata JSON from CSV
+* [**CheckIN**](https://github.com/RussellJapheth/CheckIN) — a streak calendar built with SvelteKit
+* [**my-minimal-finance**](https://github.com/RussellJapheth/my-minimal-finance) — privacy-focused personal finance tracker, fully in-browser (IndexedDB)
+* [**codeigniter4-db-explorer**](https://github.com/RussellJapheth/codeigniter4-db-explorer) — interactive terminal database explorer/editor for CodeIgniter 4
+
+## 📊 Areas of Expertise
 
 * Software Engineering
 * Full Stack Development
