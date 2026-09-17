@@ -133,7 +133,6 @@ AI-powered web platform for **mpox risk assessment** using image classification.
 A few other public repos:
 
 * [**Rcopy**](https://github.com/RussellJapheth/Rcopy) — curl-based remote file copy with a CLI, real-time progress, and resumable downloads
-* [**chipmaker**](https://github.com/RussellJapheth/chipmaker) — CLI that generates CHIP-0007 (Chia NFT) metadata JSON from CSV
 * [**CheckIN**](https://github.com/RussellJapheth/CheckIN) — a streak calendar built with SvelteKit
 * [**my-minimal-finance**](https://github.com/RussellJapheth/my-minimal-finance) — privacy-focused personal finance tracker, fully in-browser (IndexedDB)
 * [**codeigniter4-db-explorer**](https://github.com/RussellJapheth/codeigniter4-db-explorer) — interactive terminal database explorer/editor for CodeIgniter 4
