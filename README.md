@@ -91,6 +91,17 @@ Fully **offline, self-hosted media gallery** with state-of-the-art **face recogn
 * **FastAPI + HTMX/Alpine.js** gallery over SQLite, with a WebP thumbnail cache and FFmpeg video keyframe sampling
 * [`github.com/RussellJapheth/kimera`](https://github.com/RussellJapheth/kimera) · AGPL-3.0 · 87 tests passing
 
+### [FlashCards](https://github.com/RussellJapheth/flash-two)
+
+A modern, **offline-first spaced repetition flashcards app** for learning languages, built with Svelte 5.
+
+* **SM-2-inspired scheduler** with per-deck review queues and due-date spread (`src/lib/utils/srs.ts`)
+* **Offline-first**: study data persists in the browser (IndexedDB) with a service worker and debounced background sync to a small JSON API
+* **Chinese learning focus**: HSK-aligned decks, pinyin, tones, tone-sandhi detection, and cloze (sentence-fill) practice with multiple accepted answers
+* **Speech practice** via the Web Speech API with accuracy evaluation, plus arcade games (Match Blitz, Number Rush) with combo scoring
+* **Progress system**: XP, levels, streaks (with streak freezes), milestones, and weekly/monthly leaderboards
+* **SvelteKit + TypeScript + Tailwind CSS v4**, deployed on Netlify · AGPL-3.0
+
 ### [Cliff-Drop](https://github.com/RussellJapheth/cliff-drop)
 
 A **self-hosted, cross-device text and file sharing app** inspired by Microsoft Edge Drop — single-user, minimal, and secure.
